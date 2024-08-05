@@ -80,9 +80,3 @@ Contributions to this project are welcome. If you would like to contribute, plea
  - Create a new branch for your feature or bug fix.
  - Make your changes and test them thoroughly.
  - Submit a pull request with a clear description of your changes.
-
-## Author
-
-Talha Nasir
-
-Feel free to modify this README template to include more specific details about your project, its usage, and any additional information you want to provide to users and contributors.
